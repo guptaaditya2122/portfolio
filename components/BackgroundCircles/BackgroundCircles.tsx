@@ -23,7 +23,7 @@ export default function BackgroundCircles({}: Props) {
         animate-ping'/>
         <div className='absolute border border-[#333333] rounded-full h-[500px] w-[500px] mt-64
         animate-ping'/>
-        <div className='rounded-full border border-[#f7ab0a] opacity-20 h-[500px] w-[500px]
+        <div className='rounded-full border border-[#f7ab0a] opacity-20 h-[535px] w-[535px]
         absolute mt-64 animate-pulse'/>
         <div className='absolute border border-[#333333] rounded-full h-[650px] w-[650px] mt-64'/>
 
