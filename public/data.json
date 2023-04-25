@@ -1,0 +1,470 @@
+{
+    "about": {
+        "name": "Aditya Gupta",
+        "role": "Software Engineer",
+        "heroImage": "/me.png",
+        "aboutImage":"/PRofile_pic.png",
+        "backgroundInformation": "Hi I'm Aditya. Here's a little about me...I've been coding for almost 5 years now. As a Frontend Developer, I have honed my skills in Angular, React, JavaScript, TypeScript, Redux, HTML, and CSS. I have experience working on complex projects and collaborating with cross-functional teams to deliver high-quality solutions. My experience has allowed me to develop a strong understanding of responsive web design, user interface development, and optimization techniques. I am proficient in utilizing the latest industry-standard tools and methodologies such as Agile, Scrum, Git, and JIRA to ensure efficient development practices.",
+        "phoneNumber": "+919039292842",
+        "email": "gupta08aditya1996@gmail.com",
+        "socials": [
+            {
+                "_id": 123124121,
+                "url": "https://www.linkedin.com/in/aditya-gupta-048a22106/"
+            },
+            {
+                "_id": 234234234,
+                "url": "https://github.com/guptaaditya2122"
+            },
+            {
+                "_id": 345345353,
+                "url": "https://www.instagram.com/__adityagupta/?next=%2F"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "_id": 123123213,
+            "skill":{
+                "image":"/images/skills/angular.png",
+                "progress":95
+            }
+        },
+        {
+            "_id": 234234234,
+            "skill":{
+                "image":"/images/skills/css.png",
+                "progress":78
+            }
+        },
+        {
+            "_id": 345345345,
+            "skill":{
+                "image":"/images/skills/firebase.png",
+                "progress":48
+            }
+           
+        },
+        {
+            "_id": 456456464,
+            "skill":{
+                "image":"/images/skills/git.png",
+                "progress":80
+            }
+        },
+        {
+            "_id": 576556856,
+            "skill":{
+                "image":"/images/skills/guidewire.png",
+                "progress":90
+            }
+        },
+        {
+            "_id": 616261126,
+            "skill":{
+                "image":"/images/skills/html.png",
+                "progress":95
+            }
+        },
+        {
+            "_id": 789789797,
+            "skill":{
+                "image":"/images/skills/javascript-1.svg",
+                "progress":90
+            }
+        },
+        {
+            "_id": 898898988,
+            "skill":{
+                "image":"/images/skills/materialui.png",
+                "progress":60
+            }
+        },
+        {
+            "_id": 9191919999,
+            "skill":{
+                "image":"/images/skills/node.png",
+                "progress":30
+            }
+        },
+        {
+            "_id": 6709998788,
+            "skill":{
+                "image":"/images/skills/react.png",
+                "progress":85
+            } 
+        },
+        {
+            "_id": 55392923670,
+            "skill":{
+                "image":"/images/skills/redux.png",
+                "progress":80
+            }
+        },
+        {
+            "_id": 100101001010,
+            "skill":{
+                "image":"/images/skills/styled.png",
+                "progress":80
+            }
+        },
+        {
+            "_id": 2121212121,
+            "skill":{
+                "image":"/images/skills/tailwind.png",
+                "progress":70
+            }
+        },
+        {
+            "_id": 313131313,
+            "skill":{
+                "image":"/images/skills/typescript-2.svg",
+                "progress":89
+            }
+        },
+        {
+            "_id": 499999,
+            "skill":{
+                "image":"/images/skills/vscode.png",
+                "progress":100
+            } 
+        }
+    ],
+    "experiences": [
+        {
+            "id": 1,
+            "title": "Technology Consultant",
+            "company": "Deloitte USI",
+            "companyImage":"/images/Company/deloitte.png",
+            "technologies": [
+                {
+                    "_id": 123123213,
+                    "skill":{
+                        "image":"/images/skills/angular.png",
+                        "progress":95
+                    }
+                },
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/react.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/javascript-1.svg",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/typescript-2.svg",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/redux.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/git.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "startedWork": "June 2022",
+            "endedWork": "Present",
+            "points": [
+                "Implemented enhancements that increased code reuse through generic components and services, resulting in a20% reduction in code lines.",
+                "Mentored two team members to improve their user interface development skills, which led to thesuccessful release of the client's application for the US region.",
+                "Built numerous Jest test cases with code coverage higher than 90%.",
+                "Led biweekly meetings to improve development team effectiveness by 25% and ensure code quality ismaintained."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Business Technology Analyst",
+            "company": "Deloitte USI",
+            "companyImage":"/images/Company/deloitte.png",
+            "technologies": [
+                {
+                    "_id": 123123213,
+                    "skill":{
+                        "image":"/images/skills/angular.png",
+                        "progress":95
+                    }
+                },
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/react.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/javascript-1.svg",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/typescript-2.svg",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/html.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/css.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "startedWork": "August 2020",
+            "endedWork": "May 2022",
+            "points": [
+                "Worked on the development of scalable solutions for clients using Angular, React , Javascript and Rest APIs.",
+                "Extended functionality, reworked code, revamped processes resulting in smoother operations and enhanceduser experience by 30%.",
+                "Improved overall adaptive capacity of the website to lower resolutions and increased in site interaction by 65%for smaller devices.",
+                "Introduced variety of common modules and components to ensure consistency of website features andenhanced reuse in an agile environment."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Senior Software Engineer",
+            "company": "Capgemini",
+            "companyImage":"/images/Company/capgemini.png",
+            "technologies": [
+                {
+                    "_id": 123123213,
+                    "skill":{
+                        "image":"/images/skills/angular.png",
+                        "progress":95
+                    }
+                },
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/guidewire.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/git.png",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/typescript-2.svg",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/html.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/css.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "startedWork": "June 2018",
+            "endedWork": "March 2020",
+            "points": [
+                "Designed and reviewed field specifications, use case documents for Policy Centre configuration anddevelopment of user interface, business rules, underwriting problems, forms and payments in Guidewire.",
+                "As a part of pitching an idea to the client, developed an insurance web app for a customer facing portal that involved integrating an Angular application with third party REST services."
+            ]
+        }
+    ],
+    "projects":[
+        {
+            "_id":21,
+            "title":"Shopping Cart",
+            "image":"/images/projects/shopp.png",
+            "summary":"Shopping website using React, Redux. User can see products, add to cart, review, checkout and view placed orders.",
+            "technologies": [
+            
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/react.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/redux.png",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/html.png",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/css.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/firebase.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "linkToBuild":"https://shopify-shoppping-cart.web.app/"
+        },
+        {
+            "_id":22,
+            "title":"LinkedIn Clone",
+            "image":"/images/projects/linekdIN.png",
+            "summary":"LinkedIn Clone using React and Redux for state management with adding post functionality.",
+            "technologies": [
+            
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/react.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/redux.png",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/html.png",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/css.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/firebase.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "linkToBuild":"https://linkedin-clone-1bf1e.web.app/"
+        },
+        {
+            "_id":23,
+            "title":"Slack Clone",
+            "image":"/images/projects/slackclone.jpg",
+            "summary":"Slack clone 2.0 using React, Redux , styled components with functionality of adding new channel for chat.",
+            "technologies": [
+            
+                {
+                    "_id": 6709998788,
+                    "skill":{
+                        "image":"/images/skills/react.png",
+                        "progress":85
+                    } 
+                },
+                {
+                    "_id": 789789797,
+                    "skill":{
+                        "image":"/images/skills/redux.png",
+                        "progress":90
+                    }
+                },
+                {
+                    "_id": 313131313,
+                    "skill":{
+                        "image":"/images/skills/html.png",
+                        "progress":89
+                    }
+                },
+                {
+                    "_id": 55392923670,
+                    "skill":{
+                        "image":"/images/skills/styled.png",
+                        "progress":80
+                    }
+                },
+                {
+                    "_id": 456456464,
+                    "skill":{
+                        "image":"/images/skills/firebase.png",
+                        "progress":80
+                    }
+                }
+
+
+            ],
+            "linkToBuild":"https://slack-clone-1ec96.web.app/"
+        }
+    ],
+    "socials":[
+        {
+            "_id":11111,
+            "url":"https://www.linkedin.com/in/aditya-gupta-048a22106/"
+        },
+        {
+            "_id":22222,
+            "url":"https://github.com/guptaaditya2122"
+        },
+        {
+            "_id":33333,
+            "url":"https://www.instagram.com/__adityagupta/?next=%2F"
+        }
+    ]
+}
