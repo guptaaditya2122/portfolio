@@ -185,7 +185,7 @@
             "startedWork": "June 2022",
             "endedWork": "Present",
             "points": [
-                "Implemented enhancements that increased code reuse through generic components and services, resulting in a20% reduction in code lines.",
+                "Implemented enhancements that increased code reuse through generic components and services, resulting in a 20% reduction in code lines.",
                 "Mentored two team members to improve their user interface development skills, which led to thesuccessful release of the client's application for the US region.",
                 "Built numerous Jest test cases with code coverage higher than 90%.",
                 "Led biweekly meetings to improve development team effectiveness by 25% and ensure code quality ismaintained."
